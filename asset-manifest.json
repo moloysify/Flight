@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/moloysify/Flight.git/static/css/main.e6c13ad2.css",
+    "main.js": "/moloysify/Flight.git/static/js/main.a6e98c51.js",
+    "static/js/453.b0d06906.chunk.js": "/moloysify/Flight.git/static/js/453.b0d06906.chunk.js",
+    "index.html": "/moloysify/Flight.git/index.html",
+    "main.e6c13ad2.css.map": "/moloysify/Flight.git/static/css/main.e6c13ad2.css.map",
+    "main.a6e98c51.js.map": "/moloysify/Flight.git/static/js/main.a6e98c51.js.map",
+    "453.b0d06906.chunk.js.map": "/moloysify/Flight.git/static/js/453.b0d06906.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a6e98c51.js"
+  ]
+}
